@@ -12,5 +12,13 @@
   "flags": {
     "canUpload": true
   },
-  "description": "Allows exporting of FoundryVTT chat to JSON."
+  "description": "<p>Allows exporting of FoundryVTT chat to JSON.</p>",
+  "authors": [
+    {
+      "name": "Martijn Raijmakers",
+      "url": "https://github.com/MartijnRaijmakers",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/MartijnRaijmakers/Chat-Exporter-Plus/"
 }
