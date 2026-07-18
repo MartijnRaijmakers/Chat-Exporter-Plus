@@ -1,0 +1,16 @@
+{
+  "id": "chat-exporter-plus",
+  "title": "Chat Exporter Plus",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "description": "Allows exporting of FoundryVTT chat to JSON."
+}
